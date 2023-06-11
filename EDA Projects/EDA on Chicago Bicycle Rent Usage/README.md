@@ -1,4 +1,4 @@
-Exploratory Data Analysis on Chicago Bicycle Rent Usage
+## Exploratory Data Analysis on Chicago Bicycle Rent Usage
 
 1. Cleaned and analyzed cycle rent usage data containing  600000+ rows & 13 columns using Pandas.
 2. Created visualizations (histogram, word cloud, folium maps) using folium, seaborn and plotly.
