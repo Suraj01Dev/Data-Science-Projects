@@ -1,4 +1,4 @@
-Web Scraping Best Hiring Companies for Developers from StackOverflow
+## Web Scraping Best Hiring Companies for Developers from StackOverflow
 
 - Scraped latest job updates from stackoverflow using Requests & Beautifulsoup4
 - Built functions like mainParser(), infoParser() and extraParser() to scrape job name, location link, tech stack, website link
